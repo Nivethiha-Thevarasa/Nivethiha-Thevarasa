@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nivethiha-thevarasa&label=Profile%20views&color=0e75b6&style=flat" alt="nivethiha-thevarasa" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development** 
 
 - 💬 Ask me about **react**
 
