@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nivethiha-thevarasa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-- 🌱 I’m currently learning **Web Development**  
+- 🌱 I’m currently expanding my skills in **Web Development, Python, React, Machine Learning, Deep Learning, and the MERN stack**  
 - 💬 Ask me about **React, JavaScript, and Web Technologies**  
 - 📫 How to reach me: **nivethihatheva@gmail.com**  
 
