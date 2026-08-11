@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nivethiha Thevarasa</h1>
-<h3 align="center">Aspiring IT Professional | IT Undergraduate @ RUSL | Data Analyst | AI/ML | Full-Stack Web Development</h3>
+<h3 align="center">Aspiring IT Professional | IT Undergraduate @ RUSL | Data Analyst | AI/ML </h3>
 
 
 <p align="center">
