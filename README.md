@@ -9,7 +9,7 @@
 ---
 
 ## 🌱 About Me
-I am an enthusiastic IT undergraduate passionate about **Web Development, Data Analysis, Machine Learning, Full Stack Development**, and **creating analytics dashboards in Power BI**.  
+I am an enthusiastic IT undergraduate passionate about **Data Analysis, Machine Learning**, and **creating analytics dashboards in Power BI**.  
 I enjoy building projects, learning new technologies, and solving real-world problems through code.  
 
 - 📫 Reach me at: **nivethihatheva@gmail.com**  
