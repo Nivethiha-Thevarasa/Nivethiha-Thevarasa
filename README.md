@@ -91,12 +91,11 @@ A practical REST API testing portfolio using Postman and the JSONPlaceholder pub
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nivethiha-Thevarasa&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivethiha-Thevarasa&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
-</p>
+I actively use GitHub to document my learning journey, develop projects, explore new technologies, and improve my technical skills.
+
+🔗 **[Explore my repositories](https://github.com/Nivethiha-Thevarasa?tab=repositories)**
 
 ---
 
